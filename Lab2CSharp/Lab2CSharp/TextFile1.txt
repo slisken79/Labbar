@@ -1,0 +1,23 @@
+﻿1-Att instansiera innebär att man gör en "lokal kopia" av en typ som man vill använda.
+2-Att skapa ett objekt kallas instansiering och det blir att man reserverar plats i Heapen genom att skriva new....
+3-Värdetyper:int, string, bool, double, char.
+Referenstyper:object.
+4-Referenstyper :Klasser , vektorer, delegate och interface.
+Värdetyper:Enum,Struct.
+5- Heapen:är den stora delen i RAM-minnet där referenstyper/referensobjekt lagras.
+Referenstyper använder i regel nyckelordet new när man tilldelar deklerationen ett värde. 
+
+*Stacken: är en del av RAM-minnet som lagrar värdetyper och som kan hålla reda på en begränsad 
+mängd information.Stora objekt däremot läggs istället på heapen.
+Metoden för att lägga till på stacken heter push()
+och metoden för att ta bort från stacken heter pop()
+
+6-En variable är som en behållare som kan innehålla någon form av värde. En sådan behållare kan bara innehålla 
+en sorts värden som benämns som en typ som man anger när man deklarerar(skapar) variabeln. Sen kan man 
+ändra värdet i variabeln så länge som man håller sig till den valda typen.
+Hur skapas en variabl?:När man deklarerar en variabel måste man ge den en identifierare som är ett namn på behållaren.
+Initiera en variabeln: Man kan både deklarera och tilldela ett värde till variabeln d.v.s samtidigt som man skapar variabeln så kan man ge den ett värde. 
+Detta brukar kallas för initiering eller att man initierar variabeln. 
+Ex: Värdet kan bara vara ett heltalsvärde om vi angivit att typen är en int. Värden ges med 
+tilldelningsoperatorn som är tecknet ”=”.
+
