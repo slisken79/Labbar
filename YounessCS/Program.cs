@@ -10,6 +10,17 @@ namespace YounessCS
     {
         static void Main(string[] args)
         {
+            //1-
+            float minFloat = 10.7F;
+            long minLong = 145L;
+            char myChar = 's';
+            string myString = "Hej!";
+            ulong muULong = 417UL;
+            //2-
+           
+
+
+
         }
     }
 }
