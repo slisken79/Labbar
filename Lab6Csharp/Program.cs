@@ -14,6 +14,7 @@ namespace Labb6
             Literals();   // Uppgigt-1
             Pointer();   // Uppgift-3
             DoubleType();   // Uppgift-4
+            Console.ReadKey();
 
         }
 
@@ -72,5 +73,7 @@ namespace Labb6
             char charChar = 'b';
             string stringString = "b";
         }
+       
     }
+   
 }
