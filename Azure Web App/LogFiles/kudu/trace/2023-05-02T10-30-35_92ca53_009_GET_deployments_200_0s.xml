@@ -1,0 +1,7 @@
+<step title="Incoming Request" date="2023-05-02T10:30:35.389" instance="92ca53" url="/deployments" method="GET" type="request" pid="12024,2,34" Content-Length="0" Content-Type="application/json; charset=utf-8" Accept="*/*" Accept-Encoding="gzip,deflate" Authorization="Bea..." Host="yoesec.scm.azurewebsites.net" User-Agent="ms-rest-js/2.6.1 Node/v16.14.2 OS/(x64-Windows_NT-10.0.19045) vscode-azureappservice/0.24.8" X-ARR-LOG-ID="1c1eefe9-87fa-4ef5-bc41-069a2a89edd2" CLIENT-IP="188.148.8.146:53558" X-SITE-DEPLOYMENT-ID="yoesec" WAS-DEFAULT-HOSTNAME="yoesec.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.2" X-MS-CLIENT-DISPLAY-NAME="Youness Essadak" X-WAWS-Unencoded-URL="/deployments" >
+  <step title="DeploymentService.GetCurrentEtag" date="2023-05-02T10:30:35.389" >
+    <step title="Current Etag: &quot;fffffffff19fd8a1&quot;, Cached Etag: &quot;fffffffff19fd8a1&quot;" date="2023-05-02T10:30:35.405" /><!-- duration: 0ms -->
+  </step><!-- duration: 16ms -->
+  <step title="DeploymentService.GetDeployResults" date="2023-05-02T10:30:35.405" /><!-- duration: 16ms -->
+  <step title="Outgoing response" date="2023-05-02T10:30:35.420" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/10.0" x-ms-request-id="1c1eefe9-87fa-4ef5-bc41-069a2a89edd2" ETag="&quot;fffffffff19fd8a1&quot;" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 0ms -->
+</step><!-- duration: 31ms -->

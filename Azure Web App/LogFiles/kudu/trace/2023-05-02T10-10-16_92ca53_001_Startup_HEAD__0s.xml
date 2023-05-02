@@ -1,0 +1,3 @@
+<step title="Startup Request" date="2023-05-02T10:10:16.169" instance="92ca53" url="/" method="HEAD" type="request" pid="12024,2,9" SCM_SKIP_SSL_VALIDATION="0" ScmType="GitHubAction" >
+  <step title="Cleanup Xml Logs" date="2023-05-02T10:10:16.169" /><!-- duration: 16ms -->
+</step><!-- duration: 16ms -->
